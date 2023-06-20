@@ -10,7 +10,7 @@
 
 📈 Level up your game with advanced topics, including broadcasting, universal functions, vectorization, and efficient memory management. Gain the edge you need to tackle complex data analysis tasks! ⚡📊
 
-💡 But wait, there's more! Total NumPy Notes also reveals mind-bending tricks and hacks that will skyrocket your productivity and help you write cleaner, more efficient code. 🎩💡
+💡 But wait, there's more! Total NumPy Notes also reveals mind-bending tricks and hacks that will skyrocket your productivity and help you write cleaner, more efficient code. 🎩💡🔢
 
 🔥 Imagine being able to manipulate large datasets effortlessly, perform lightning-fast computations, and unleash the full potential of NumPy in your projects. Total NumPy Notes makes it all possible! 🚀💥
 
