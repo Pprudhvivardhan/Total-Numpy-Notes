@@ -1,6 +1,6 @@
 # Total-Numpy-Notes
 
-📚  Total NumPy Notes: Your ultimate guide to mastering NumPy from fundamentals to advanced techniques, packed with mind-blowing tricks! 🎉
+📚  Total NumPy Notes: Your ultimate guide to mastering NumPy from fundamentals to advanced techniques, packed with mind-blowing tricks! 
 
 🔍 Are you ready to take your data manipulation and numerical computing skills to the next level? Look no further! 💪🔢
 
